@@ -2,11 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Ja se zovem Sara Ćirić.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
+Idem u OŠ "Tanasko Rajić".
+Imam 13 godina.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
